@@ -1,0 +1,601 @@
+Package: chart_de_AT-general
+Version: 2.4.1-3
+Name: German Austrian COA - General
+Description: This is a German Austrian chart of accounts for a starting company.
+Author: ??
+Maintenance: Joe Hunt
+Homepage: 
+Depends: 
+Encoding: utf-8
+Type: chart
+InstallPath: sql
+SqlScript: de_AT-general.sql
+Filename: chart_de_AT-general-2.4.1-3
+SHA1sum: ba4882c64c4f916cb0108d5b4f7464be1a541a99
+
+Package: chart_en_PH-general
+Version: 2.4.1-4
+Name: General Phillipines chart of accounts.
+Description: service - This is a Phillipines chart of accounts for a starting company.
+ After creating a new company with this chart, please check/create a new fiscal year and
+ change the company data to suit your needs.
+Encoding: utf-8
+Author: Manny Jao <manny@financepros.ph>
+Maintenance: Manny Jao <manny@financepros.ph>
+Homepage: financepros.ph
+Depends: 
+Type: chart
+InstallPath: sql
+SqlScript: en_PH-general.sql
+Filename: chart_en_PH-general-2.4.1-4
+SHA1sum: 90334f7737ad12b5da09a9653c159dd2ba10c5c4
+
+Package: chart_en_US-general
+Version: 2.4.1-4
+Name: Default American coa (5 digits)
+Description: This is a default American chart of accounts (5 digits) for a new company.
+Encoding: utf-8
+Author: Andrew Kestler
+Maintenance: Joe Hunt
+Homepage: frontaccounting.com
+Depends: 
+Type: chart
+InstallPath: sql
+SqlScript: en_US-general.sql
+Filename: chart_en_US-general-2.4.1-4
+SHA1sum: 31edd918c35009ba894ec4b10deac674be9d8873
+
+Package: chart_en_CA-general
+Version: 2.4.1-4
+Name: English Canadian COA - General
+Encoding: utf-8
+Description: This is an English Canadian chart of accounts for a starting company.
+Author: ??
+Maintenance: Joe Hunt
+Homepage: 
+Depends: 
+Type: chart
+InstallPath: sql
+SqlScript: en_CA-general.sql
+Filename: chart_en_CA-general-2.4.1-4
+SHA1sum: 7a6cab9b00522c3d3c2e61e016b52b80eaf857d9
+
+Package: chart_en_GB-general
+Version: 2.4.1-5
+Name: British COA
+Description: This is a British chart of accounts for a new company.
+Encoding: utf-8
+Author: Kerrsmith UK
+Maintenance: Joe Hunt
+Homepage: 
+Depends: 
+Type: chart
+InstallPath: sql
+SqlScript: en_GB-general.sql
+Filename: chart_en_GB-general-2.4.1-5
+SHA1sum: edfd06c54fb2bd420b725d82a88f84379d605d4e
+
+Package: chart_en_US-4digit
+Version: 2.4.1-4
+Name: General 4 digit COA for new company in US
+Description: This is a general 4 digit US chart of accounts for a starting company.
+ After creating a new company with this chart, please check/create a new
+ fiscal year and change the company data to suit your needs.
+Encoding: utf-8
+Author: infotechaccountants.com
+Maintenance: Joe Hunt
+Homepage: infotechaccountants.com
+Depends: 
+Type: chart
+InstallPath: sql
+SqlScript: en_US-4digit.sql
+Filename: chart_en_US-4digit-2.4.1-4
+SHA1sum: fdea8d40455f39dce9fe6575a5c27f4324be98f4
+
+Package: chart_zh_CN-general
+Version: 2.4.1-4
+Name: Chinese (simplified) 4 digit COA
+Description: This is a Chinese (simplified) chart of accounts for a starting company.
+Encoding: utf-8
+Author: ??
+Maintenance: Joe Hunt
+Homepage: 
+Depends: 
+Type: chart
+InstallPath: sql
+SqlScript: zh_CN-default-utf8.sql
+Filename: chart_zh_CN-general-2.4.1-4
+SHA1sum: d3d55ee07c87662c672c66ee795f3440c4d9fc02
+
+Package: chart_de_DE-general
+Version: 2.4.1-4
+Name: German general COA
+Description: This is a German chart of accounts for a starting company.
+Encoding: utf-8
+Author: ??
+Maintenance: Joe Hunt
+Homepage: 
+Depends: 
+Type: chart
+InstallPath: sql
+SqlScript: de_DE-general.sql
+Filename: chart_de_DE-general-2.4.1-4
+SHA1sum: 37c562eec597f38b664bf3507c34d48c99dfa568
+
+Package: chart_ro_RO-general
+Version: 2.4.1-4
+Name: Romanian COA - Default
+Description: This is a Romanian chart of accounts for a starting company.
+Encoding: utf-8
+Author: Serban Constantinescu
+Maintenance: Joe Hunt
+Homepage: 
+Depends: 
+Type: chart
+InstallPath: sql
+SqlScript: ro_RO-general.sql
+Filename: chart_ro_RO-general-2.4.1-4
+SHA1sum: f44b9c9ff36c7ca7341272e46454e9124c75309b
+
+Package: chart_sl_SI-general
+Version: 2.4.1-4
+Name: Slovenian COA
+Description: This is typical Slovenian chart of accounts.
+Encoding: utf-8
+Author: Mihael Forjanic <forjanicm@gmail.com>
+Maintenance: Mihael Forjaniƒç <forjanicm@gmail.com>
+Homepage: 
+Depends: 
+Type: chart
+InstallPath: sql
+Filename: chart_sl_SI-general-2.4.1-4
+SqlScript: sl_SI-general.sql
+SHA1sum: 67fd0aab648168a884b7409e9b43c756c4e6e877
+
+Package: chart_pl_PL-general
+Version: 2.4.1-4
+Name: Polish 9 digits COA
+Description: This is a Polish 9 digits chart of accounts for a starting company.
+Encoding: utf-8
+Author: ??
+Maintenance: Janusz Dobrowolski
+Homepage: 
+Depends: 
+Type: chart
+InstallPath: sql
+SqlScript: pl_PL-default.sql
+Filename: chart_pl_PL-general-2.4.1-4
+SHA1sum: baf4fe087313449717d69e0880c96874f14c58b5
+
+Package: chart_sv_SE-general
+Version: 2.4.1-4
+Name: Swedish 4 digits COA - New
+Description: This is a Swedish 4 digits chart of accounts for a starting company.
+Encoding: utf-8
+Author: ??
+Maintenance: Joe Hunt
+Homepage: 
+Depends: 
+Type: chart
+InstallPath: sql
+SqlScript: sv_SE-new2.sql
+Filename: chart_sv_SE-general-2.4.1-4
+SHA1sum: 97fbf0a56996e71941ca6e4ac40d706e4e48c749
+
+Package: chart_nl_NL-general
+Version: 2.4.1-4
+Name: Dutch general COA
+Description: This is a Dutch 4 digit chart of accounts for a starting company.
+Encoding: utf-8
+Author: Erwin de Bruin <erwin@mpe-solutions.nl>
+Maintenance: Erwin de Bruin <erwin@mpe-solutions.nl>
+Homepage: www.mpe-solutions.nl
+Depends: 
+Type: chart
+InstallPath: sql
+SqlScript: nl_NL-default.sql
+Filename: chart_nl_NL-general-2.4.1-4
+SHA1sum: 81d92da0accea10904048e776be348c5f78cb8ab
+
+Package: chart_nb_NO-general
+Version: 2.4.1-4
+Name: Norwegian (Bokmal) general COA
+Description: This is a Norwegian chart of accounts for a starting company.
+Encoding: utf-8
+Author: Rolf B. Hansen
+Maintenance: Rolf B. Hansen
+Homepage: frontaccounting.net
+Depends: 
+Type: chart
+InstallPath: sql
+SqlScript: nb_NO-general.sql
+Filename: chart_nb_NO-general-2.4.1-4
+SHA1sum: 21dc91da1beceecfbcf72f4033b69bdc9312782d
+
+Package: chart_en_ZA-general
+Version: 2.4.1-4
+Name: English South African 5 digits COA - New
+Description: This is an English Soth African 5 digits chart of accounts for a starting company,
+ based on the COA from infotechaccountants.com.
+Encoding: utf-8
+Author: Gerrit van Marlevelt
+Maintenance: Joe Hunt
+Homepage: 
+Depends: 
+Type: chart
+InstallPath: sql
+SqlScript: en_ZA-new.sql
+Filename: chart_en_ZA-general-2.4.1-4
+SHA1sum: 9e26db57f453c8ac7bcf849b7c14185b13ad53fb
+
+Package: chart_en_AU-service
+Version: 2.4.1-4
+Name: Australian COA for a service company (version 2).
+Description: This is an Australian chart of accounts for a new service company.
+ Many quick entries prepared by Pete.
+Encoding: utf-8
+Author: Pete, Melbourne, Australia (minor changes by Rod, Australia)
+Maintenance: Joe Hunt
+Homepage: 
+Depends: 
+Type: chart
+InstallPath: sql
+SqlScript: en_AU-service-v2.sql
+Filename: chart_en_AU-service-2.4.1-4
+SHA1sum: 1196831dec9b6210c80c208cec023bef151266fd
+
+Package: chart_en_IN-general
+Version: 2.4.1-4
+Name: English Indian COA - New.
+Description: This is an English Indian chart of accounts for a starting company.
+Encoding: utf-8
+Author: Ap.Muthu, India
+Maintenance: Joe Hunt
+Homepage: 
+Depends: 
+Type: chart
+InstallPath: sql
+SqlScript: en_IN-new.sql
+Filename: chart_en_IN-general-2.4.1-4
+SHA1sum: 9307d3def48e843d47a30aa6a5b6472ae2609cfa
+
+Package: chart_en_US-5digit
+Version: 2.4.1-4
+Name: 5 digit American general coa
+Description: This is a 5 digit American chart of accounts for a new company.
+Encoding: utf-8
+Author: infotechaccountants.com
+Maintenance: Joe Hunt
+Homepage: infotechaccountants.com
+Depends: 
+Type: chart
+InstallPath: sql
+SqlScript: en_US-new2.sql
+Filename: chart_en_US-5digit-2.4.1-4
+SHA1sum: 9f46c0805cce55554d0d75d2921e8fe5b27b8ff0
+
+Package: chart_de_CH-5digit
+Version: 2.4.1-3
+Name: German Switzerland COA (5 digits accounts)
+Description: This is a German Switzerland chart of accounts for a starting company.
+Encoding: utf-8
+Author: ??
+Maintenance: Joe Hunt
+Homepage: 
+Depends: 
+Type: chart
+InstallPath: sql
+SqlScript: de_CH-5digit.sql
+Filename: chart_de_CH-5digit-2.4.1-3
+SHA1sum: 279f15fcfa95c5a55c6fdefe70ce46e60e720c5e
+
+Package: chart_en_US-service
+Version: 2.4.1-4
+Name: US chart of accounts for service company.
+Description: service - This is a US chart of accounts for a starting service company.
+ After creating a new company with this chart, please check/create a new fiscal year and
+ change the company data to suit your needs.
+Encoding: utf-8
+Author: infotechaccountants.com
+Maintenance: Joe Hunt
+Homepage: infotechaccountants.com
+Depends: 
+Type: chart
+InstallPath: sql
+SqlScript: en_US-service.sql
+Filename: chart_en_US-service-2.4.1-4
+SHA1sum: 8756e739cc2e787d6e4d63cc5cd6c8edaf65c4b6
+
+Package: chart_fr_CA-general
+Version: 2.4.1-4
+Name: French Canadian COA - General
+Description: This is a French Canadian chart of accounts for a starting company.
+Encoding: utf-8
+Author: ??
+Maintenance: Joe Hunt
+Homepage: 
+Depends: 
+Type: chart
+InstallPath: sql
+SqlScript: fr_CA-general.sql
+Filename: chart_fr_CA-general-2.4.1-4
+SHA1sum: 6594ee92f2c4d2303a68d32181d8ae8074674ebc
+
+Package: chart_en_SG-general
+Version: 2.4.1-4
+Name: English Singapore 4 digits COA
+Description: This is an English Singapore 4 digits chart of accounts for a starting company.
+Encoding: utf-8
+Author: Ap.Muthu
+Maintenance: Joe Hunt
+Homepage: 
+Depends: 
+Type: chart
+InstallPath: sql
+SqlScript: en_SG-new.sql
+Filename: chart_en_SG-general-2.4.1-4
+SHA1sum: fbf238378ea740b1a7c95a96af3eb6aa2d8a3c87
+
+Package: chart_en_FR-general
+Version: 2.4.1-4
+Name: English French coa
+Encoding: utf-8
+Description: This is an English French chart of accounts for a starting company.
+Author: David Elvira
+Maintenance: Joe Hunt
+Homepage: 
+Depends: 
+Type: chart
+InstallPath: sql
+SqlScript: en_FR-general.sql
+Filename: chart_en_FR-general-2.4.1-4
+SHA1sum: 6de48d64358f3dc4119de469bab71ffc304f6d8b
+
+Package: chart_id_ID-4digit
+Version: 2.4.1-4
+Name: Indonesian 4 digit COA
+Description: This is an Indonesian chart of (4 digits) accounts for a starting company.
+Encoding: utf-8
+Author: ??
+Maintenance: Joe Hunt
+Homepage: 
+Depends: 
+Type: chart
+InstallPath: sql
+SqlScript: id_ID-4digit.sql
+Filename: chart_id_ID-4digit-2.4.1-4
+SHA1sum: 4673483edd5dcb394798d4ebe3c5c0ec46ddc0e5
+
+Package: chart_en_AU-general
+Version: 2.4.1-4
+Name: Australian COA with 4 digits
+Description: This is a 4 digit Australian chart of accounts.
+Encoding: utf-8
+Author: ??
+Maintenance: Joe Hunt
+Homepage: 
+Depends: 
+Type: chart
+InstallPath: sql
+SqlScript: en_AU-0000.sql
+Filename: chart_en_AU-general-2.4.1-4
+SHA1sum: 6e7f0bbb19fdb7afa7902b12774286f570ad6fe5
+
+Package: chart_zh_HK-general
+Version: 2.4.1-4
+Name: Chinese (traditional) 4 digit COA
+Description: This is a Chinese (traditional) chart of accounts for a starting company.
+Encoding: utf-8
+Author: ??
+Maintenance: Joe Hunt
+Homepage: 
+Depends: 
+Type: chart
+InstallPath: sql
+SqlScript: zh_HK-utf8.sql
+Filename: chart_zh_HK-general-2.4.1-4
+SHA1sum: 094ad55b3aa17db6abdce2ca2b942fa7b7623262
+
+Package: chart_ar_EG-english
+Version: 2.4.1-3
+Name: Arabic Egypt 8 digits COA - GAAP (English version)
+Description: This is an Arabic Egypt 8 digits chart of accounts for a starting company,
+ based on GAAP and IAS in english version.
+Author: infotechaccountants.com
+Maintenance: Joe Hunt
+Homepage: infotechaccountants.com
+Encoding: utf-8
+Depends: 
+Type: chart
+InstallPath: sql
+SqlScript: ar_EG-8digits-eng.sql
+Filename: chart_ar_EG-english-2.4.1-3
+SHA1sum: 0208a211017f81251011a1b44c4dcce66087edf3
+
+Package: chart_es_ES-general
+Version: 2.4.1-5
+Name: Spanish COA - ISO
+Description: This is a Spanish chart of accounts for a starting company.
+Encoding: utf-8
+Author: Victor van Herpt Valdivia <victor@teidis.com>
+Maintenance: Victor van Herpt Valdivia <victor@teidis.com>
+Homepage: frontaccounting.net
+Depends: 
+Type: chart
+InstallPath: sql
+SqlScript: es_ES-iso.sql
+Filename: chart_es_ES-general-2.4.1-5
+SHA1sum: 7e7b822c596d54ecda828ca67a9b0548a68576c4
+
+Package: chart_ka_GE-general
+Version: 2.4.1-4
+Name: Georgian COA
+Description: This is a Georgian chart of accounts for a new company.
+Encoding: utf-8
+Author: Giorgi Natsvlishvili <gnatsvlishvili@gmail.com>
+Maintenance: Giorgi Natsvlishvili <gnatsvlishvili@gmail.com>
+Homepage: frontaccounting.com
+Depends: 
+Type: chart
+InstallPath: sql
+SqlScript: ka_GE-general.sql
+Filename: chart_ka_GE-general-2.4.1-4
+SHA1sum: ca802a6bf878e09f4cf95c03e86b6f22fed234e1
+
+Package: chart_hu_HU-general
+Version: 2.4.1-4
+Name: Hungarian COA - General
+Description: This is a Hungarian chart of accounts for a starting company.
+Encoding: utf-8
+Author: StartIT Ltd. Nr. Istv·n PONGR¡CZ.
+Maintenance: Joe Hunt
+Homepage: http://www.startit.hu
+Depends: 
+Type: chart
+InstallPath: sql
+SqlScript: hu_HU-general.sql
+Filename: chart_hu_HU-general-2.4.1-4
+SHA1sum: b7ab78f133939b6657eb0eef61d69b60ec323066
+
+Package: chart_en_US-nonprofit
+Version: 2.4.1-4
+Name: US COA for a nonprofit company
+Description: This is a 4 digit COA.
+Encoding: utf-8
+Author: Allan Brenner <alan@abcompcons.com>
+Maintenance: Joe Hunt
+Homepage: frontaccounting.com
+Depends: frontaccounting.com
+Type: chart
+InstallPath: sql
+SqlScript: en_US-nonprofit.sql
+Filename: chart_en_US-nonprofit-2.4.1-4
+SHA1sum: 40ac34e83024f84ea2b70a0eb4f8214e55207d2e
+
+Package: chart_en_US-GAAP
+Version: 2.4.1-4
+Name: 8 digit GAAP compatible American chart of accounts
+Description: This is an 8 digit American chart of accounts (COA),
+ based on Generally Accepted Accounting Principles of USA (GAAP)
+ and International Accounting  Standards (IAS). This COA have
+ extended characters (100) in the account name and similar names,
+ to better suit long names. This COA is for new companies.
+Encoding: utf-8
+Author: infotechaccountans.com
+Maintenance: Joe Hunt
+Homepage: infotechaccountants.com
+Depends: 
+Type: chart
+InstallPath: sql
+SqlScript: en_US-GAAP.sql
+Filename: chart_en_US-GAAP-2.4.1-4
+SHA1sum: 0bc38a1606fb5f8f1cd64b8d58409d1fa6b021ca
+
+Package: chart_en_US-demo2
+Version: 2.4.1-4
+Name: 5 digit American coa wit educational data
+Description: This is a 5 digit American chart of accounts. It has very good educational
+ data and this company is called Modern Factory Co.
+Encoding: utf-8
+Author: infotechaccountants.com
+Maintenance: Joe Hunt
+Homepage: infotechaccountants.com
+Depends: 
+Type: chart
+InstallPath: sql
+SqlScript: en_US-demo2.sql
+Filename: chart_en_US-demo2-2.4.1-4
+SHA1sum: 4bd328eedfcfa4f8c51f9e6229a4a0148061a373
+
+Package: chart_ar_EG-GAAP
+Version: 2.4.1-3
+Name: Arabic Egypt 8 digits COA - GAAP
+Description: This is an Arabic Egypt 8 digits chart of accounts for a starting company,
+ based on GAAP and IAS. It is important that the collation of the created database is 'utf8_general_ci'.
+Author: infotechaccountants.com
+Maintenance: Joe Hunt
+Homepage: infotechaccountants.com
+Encoding: utf-8
+Depends: 
+Type: chart
+InstallPath: sql
+SqlScript: ar_EG-8digits.sql
+Filename: chart_ar_EG-GAAP-2.4.1-3
+SHA1sum: fa53f4862685e30ed8088bafb5c8c8824c53146f
+
+Package: chart_ar_EG-general
+Version: 2.4.1-3
+Name: Arabic Egypt COA
+Description: This is an Arabic Egypt chart of accounts for a starting company.
+ Needs some minor translations.
+Author: ??
+Maintenance: Joe Hunt
+Homepage: 
+Depends: 
+Encoding: utf-8
+Type: chart
+InstallPath: sql
+SqlScript: ar_EG-general.sql
+Filename: chart_ar_EG-general-2.4.1-3
+SHA1sum: 7209bf9e67b40bf1359718d9bd5ffc997833ec68
+
+Package: chart_id_ID-general
+Version: 2.4.1-4
+Name: Indonesian general 8 digit COA
+Description: This is an Indonesian chart of (8 digit) accounts for a starting company.
+Encoding: utf-8
+Author: Rendy Satrya, Indonesia
+Maintenance: Joe Hunt
+Homepage: 
+Depends: 
+Type: chart
+InstallPath: sql
+SqlScript: id_ID-general.sql
+Filename: chart_id_ID-general-2.4.1-4
+SHA1sum: be457753fc6bb2b49f5a8e9a1a77a1fd72a7dcaf
+
+Package: chart_de_CH-general
+Version: 2.4.1-3
+Name: German Switzerland COA
+Description: This is a German Switzerland chart of accounts for a starting company.
+Author: Pfister from Switzerland
+Encoding: utf-8
+Maintenance: Joe Hunt
+Homepage: 
+Depends: 
+Type: chart
+InstallPath: sql
+SqlScript: de_CH-general.sql
+Filename: chart_de_CH-general-2.4.1-3
+SHA1sum: 3b2d13e774e328ad438ad9c79b34fda553e8843a
+
+Package: chart_da_DK-general
+Version: 2.4.1-3
+Name: Danish 4 digits general COA
+Description: This is a Danish 4 digits chart of accounts for a starting company.
+Author: ??
+Maintenance: Joe Hunt
+Homepage: 
+Depends: 
+Encoding: utf-8
+Type: chart
+InstallPath: sql
+SqlScript: da_DK-new2.sql
+Filename: chart_da_DK-general-2.4.1-3
+SHA1sum: 2f5692caa6530e1644daa30ed076bfc6ed378279
+
+Package: chart_fr_FR-general
+Version: 2.4.1-4
+Name: French COA - General
+Description: This is a French chart of accounts for a starting company.
+Encoding: utf-8
+Author: David Elvira
+Maintenance: Joe Hunt
+Homepage: 
+Depends: 
+Type: chart
+InstallPath: sql
+SqlScript: fr_FR-general.sql
+Filename: chart_fr_FR-general-2.4.1-4
+SHA1sum: ef89fc34ae767e9d9cdf5e0b8dce06d8f0208682
+

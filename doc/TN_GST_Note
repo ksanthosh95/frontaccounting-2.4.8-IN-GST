@@ -1,0 +1,53 @@
+--To Change New COA chanage in Installation Wizard--
+*Add Code to path_to_root/includes/ui/ui_lists.inc
+
+SET NAMES utf8_general_ci;
+
+-- 0_chart_master --
+--India Sales Tax charts--
+('2000', '', 'Sales Tax - CGST 2%', '4', '0'),
+('2001', '', 'Sales Tax - GGST 2%', '4', '0'),
+('2002', '', 'Sales Tax - CGST 5%', '4', '0'),
+('2003', '', 'Sales Tax - CGST 6%', '4', '0'),
+('2004', '', 'Sales Tax - CGST 6%', '4', '0'),
+('2005', '', 'Sales Tax - CGST 12%', '4', '0'),
+('2006', '', 'Sales Tax - CGST 9%', '4', '0'),
+('2007', '', 'Sales Tax - CGST 9%', '4', '0'),
+('2008', '', 'Sales Tax - CGST 18%', '4', '0'),
+('2009', '', 'Sales Tax - CGST 14%', '4', '0'),
+('2010', '', 'Sales Tax - CGST 14%', '4', '0'),
+('2011', '', 'Sales Tax - CGST 28%', '4', '0'),
+--End of India Sales Tax--
+--India Purchase Tax charts--
+('2050', '', 'Purchase Tax - CGST 2%', '4', '0'),
+('2051', '', 'Purchase Tax - GGST 2%', '4', '0'),
+('2052', '', 'Purchase Tax - CGST 5%', '4', '0'),
+('2053', '', 'Purchase Tax - CGST 6%', '4', '0'),
+('2054', '', 'Purchase Tax - CGST 6%', '4', '0'),
+('2055', '', 'Purchase Tax - CGST 12%', '4', '0'),
+('2056', '', 'Purchase Tax - CGST 9%', '4', '0'),
+('2057', '', 'Purchase Tax - CGST 9%', '4', '0'),
+('2058', '', 'Purchase Tax - CGST 18%', '4', '0'),
+('2059', '', 'Purchase Tax - CGST 14%', '4', '0'),
+('2060', '', 'Purchase Tax - CGST 14%', '4', '0'),
+('2061', '', 'Purchase Tax - CGST 28%', '4', '0'),
+--End of India Purchase Tax--
+
+-- 0_currencies --
+('Indian Rupees', 'INR', 'Rs', 'India', 'Paisa', '0', '0'),
+
+-- 0_fiscal_year --
+('1', '2017-04-01', '2018-03-31', '1');
+('2', '2018-04-01', '2019-03-31', '1');
+('3', '2019-04-01', '2020-03-31', '1');
+('4', '2020-04-01', '2021-03-31', '0');
+
+-- 0_tax_groups --
+('1', 'Inter State Tax(Within Tamil Nadu)', '0'),
+('2', 'Tax Exempt', '1');
+('3', 'Intra State Tax(Outside Tamil Nadu)', '0'),
+
+-- 0_tax_types --
+('1', '9', '2006', '2056', 'CGST ', '0');
+('1', '9', '2007', '2057', 'SGST', '0');
+('1', '18', '2008', '2058', 'IGST', '0');
