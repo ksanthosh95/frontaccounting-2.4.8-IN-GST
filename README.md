@@ -50,6 +50,10 @@ During installation you will need to provide data server credentials with permis
 
  After successful installation please remove or rename your install directory for safety reasons. You won't need it any more.
 
+ *   **_Modified_**
+ *   Added Indian GL Account Code, Thanks dearmosin for [Step by Step Procedure](https://mpulse.in/images/FA_indian_tax_setup.jpg).
+ *   Added Currencies - INR - Indian rupees
+
 ### 4. Logging In For the First Time
 
  Open a browser and enter the URL for the web server directory where FrontAccounting is installed. Enter the user name  **admin** and use password declared during install process to login as company administrator. Now you can proceed with configuration process setting up additional user accounts, creating fiscal years, defining additional currencies, GL accounts etc. All configuration options available in application are described in [FrontAccounting Wiki](http://frontaccounting.com/fawiki/) available directly from Help links on every application page under ![Help](./themes/default/images/help.gif  "Help") icon.
