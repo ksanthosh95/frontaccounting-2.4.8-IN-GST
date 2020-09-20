@@ -110,7 +110,7 @@ function print_invoices()
 			if ($email == 1)
 			{
 				$rep = new FrontReport("", "", user_pagesize(), 9, $orientation);
-				$rep->title = _('INVOICE');
+				$rep->title = _('TAX INVOICE');
 				$rep->filename = "Invoice" . $myrow['reference'] . ".pdf";
 			}	
 			$rep->currency = $cur;

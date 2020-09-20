@@ -17,12 +17,12 @@
 	global $SysPrefs;
 
 	$Addr1 = array(
-			'title' => _("Charge To"),
+			'title' => _("Billing Address"),
 			'name' => @$this->formData['br_name'] ? $this->formData['br_name'] : @$this->formData['DebtorName'],
 			'address' => @$this->formData['br_address'] ? $this->formData['br_address'] : @$this->formData['address']
 	);
 	$Addr2 = array(
-			'title' => _("Delivered To"),
+			'title' => _("Shipping Address"),
 			'name' => @$this->formData['deliver_to'],
 			'address' => @$this->formData['delivery_address']
 	);
@@ -54,7 +54,7 @@
 			$aux_info = array(
 				_("Customer's Reference") => $this->formData["customer_ref"],
 				_("Sales Person") => get_salesman_name($this->formData['salesman']),
-				_("Your VAT no.") => $this->formData['tax_id'],
+				_("Your GST no.") => $this->formData['tax_id'],
 				_("Our Quotation No") => $this->formData['order_no'],
 				_("Valid until") => sql2date($this->formData['delivery_date']),
 			);
@@ -71,7 +71,7 @@
 			$aux_info = array(
 				_("Customer's Reference") => $this->formData["customer_ref"],
 				_("Sales Person") => get_salesman_name($this->formData['salesman']),
-				_("Your VAT no.") => $this->formData['tax_id'],
+				_("Your GST no.") => $this->formData['tax_id'],
 				_("Our Order No") => $this->formData['order_no'],
 				_("Delivery Date") => sql2date($this->formData['delivery_date']),
 			);
@@ -92,7 +92,7 @@
 			$aux_info = array(
 				_("Customer's Reference") => $this->formData["customer_ref"],
 				_("Sales Person") => get_salesman_name($this->formData['salesman']),
-				_("Your VAT no.") => $this->formData['tax_id'],
+				_("Your GST no.") => $this->formData['tax_id'],
 				_("Our Order No") => $ref,
 				_("To Be Invoiced Before") => sql2date($this->formData['due_date']),
 			);
@@ -106,7 +106,7 @@
 			$aux_info = array(
 				_("Customer's Reference") => @$this->formData["customer_ref"],
 				_("Sales Person") => get_salesman_name($this->formData['salesman']),
-				_("Your VAT no.") => $this->formData['tax_id'],
+				_("Your GST no.") => $this->formData['tax_id'],
 				_("Our Order No") => $this->formData['order_'],
 				_("Due Date") => '',
 			);
@@ -129,7 +129,7 @@
 			$aux_info = array(
 				_("Customer's Reference") => $this->formData["customer_ref"],
 				_("Sales Person") => get_salesman_name($this->formData['salesman']),
-				_("Your VAT no.") => $this->formData['tax_id'],
+				_("Your GST no.") => $this->formData['tax_id'],
 			);
 			if ($this->formData['prepaid']=='partial')
 			{
@@ -159,7 +159,7 @@
 			$aux_info = array(
 				_("Customer's Reference") => $this->formData['supp_account_no'],
 				_("Type") =>$systypes_array[$this->formData["type"]],
-				_("Your VAT no.") => $this->formData['tax_id'],
+				_("Your GST no.") => $this->formData['tax_id'],
 				_("Supplier's Reference") => '',
 				_("Due Date") => sql2date($this->formData['tran_date']),
 			);
@@ -182,7 +182,7 @@
 			$aux_info = array(
 				_("Customer's Reference") => $this->formData['supp_account_no'],
 				_("Sales Person") => $this->formData['contact'],
-				_("Your VAT no.") => $this->formData['tax_id'],
+				_("Your GST no.") => $this->formData['tax_id'],
 				_("Supplier's Reference") => @$this->formData['requisition_no'],
 				_("Order Date") => sql2date($this->formData['document_date']),
 			);
@@ -202,7 +202,7 @@
 			$aux_info = array(
 				_("Customer's Reference") => $this->formData["debtor_ref"],
 				_("Type") =>$systypes_array[$this->formData["type"]],
-				_("Your VAT no.") => $this->formData['tax_id'],
+				_("Your GST no.") => $this->formData['tax_id'],
 				_("Our Order No") => $this->formData['order_'],
 				_("Due Date") => sql2date($this->formData['tran_date']),
 			);
@@ -240,7 +240,7 @@
 			$aux_info = array(
 				_("Customer's Reference") => '',
 				_("Sales Person") => '',
-				_("Your VAT no.") => $this->formData['tax_id'],
+				_("Your GST no.") => $this->formData['tax_id'],
 				_("Our Order No") => '',
 				_("Delivery Date") => '',
 			);

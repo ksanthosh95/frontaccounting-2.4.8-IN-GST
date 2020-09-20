@@ -121,13 +121,13 @@
 		}
 		if (@$this->company['gst_no'])
 		{
-			$this->Text($ccol, _("Our VAT No."), $c2col);
+			$this->Text($ccol, _("Our GST No."), $c2col);
 			$this->Text($c2col, $this->company['gst_no'], $mcol);
 			$this->NewLine();
 		}
 		if (@$this->formData['domicile'])
 		{
-			$this->Text($ccol, _("Domicile"), $c2col);
+			$this->Text($ccol, _("Country"), $c2col);
 			$this->Text($c2col, $this->company['domicile'], $mcol);
 			$this->NewLine();
 		}

@@ -51,7 +51,7 @@ During installation you will need to provide data server credentials with permis
  After successful installation please remove or rename your install directory for safety reasons. You won't need it any more.
 
  *   **_Modified_**
- *   Added Indian GL Account Code, Thanks dearmosin for [Step by Step Procedure](https://mpulse.in/images/FA_indian_tax_setup.jpg).
+ *   Added Indian GL Account Code, Thanks **_dearmosin_** for [Step by Step Procedure](https://mpulse.in/images/FA_indian_tax_setup.jpg).
  *   Added Currencies - INR - Indian rupees
 
 ### 4. Logging In For the First Time
