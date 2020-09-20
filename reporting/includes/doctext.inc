@@ -114,10 +114,13 @@
 
 		case ST_SALESINVOICE:
 			$this->title = $this->formData['prepaid']=='partial' ? _("PREPAYMENT INVOICE")
-				: ($this->formData['prepaid']=='final' ? _("FINAL INVOICE")  : _("INVOICE"));
+				: ($this->formData['prepaid']=='final' ? _("FINAL TAX INVOICE")  : _("TAX INVOICE"));
 			$this->formData['document_name'] =_("Invoice No.");
 			$this->formData['domicile'] = $this->company['domicile'];
-			$Footer[0] = _("Please quote Invoice no. when paying. All amounts stated in"). " - " . $this->formData['curr_code'];
+            $Footer[2] = _("Goods Delivered in Good Condition");
+            $Footer[1] = _("Goods once sold cannot be taken back");
+            $Footer[0] = _("Subject to Perambalur Juridiction");
+
 
 			$deliveries = get_sales_parent_numbers(ST_SALESINVOICE, $this->formData['trans_no']);
 			if ($SysPrefs->print_invoice_no() == 0)
@@ -258,7 +261,7 @@
 
 	// footer generic content
 	if (@$this->formData['bank_name'])
-		$Footer[] = _("Bank"). ": ".$this->formData['bank_name']. ", " . _("Bank Account") . ": " . $this->formData['bank_account_number'];
+		$Footer[] = _("Customer Signature                                                                                   For ").$this->company['coy_name'];
 
 	if (@$this->formData['payment_service'])	//payment link
 	{

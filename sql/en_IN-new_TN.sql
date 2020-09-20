@@ -1683,6 +1683,8 @@ CREATE TABLE `0_tags` (
 
 --- Data of table `0_tags` ---
 
+INSERT INTO `0_tags` VALUES
+('1', '1', 'Goods &amp; Service Tax', 'Goods &amp; Service Tax', '0');
 
 --- Structure of table `0_tax_group_items` ---
 
