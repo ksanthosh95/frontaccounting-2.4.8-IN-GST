@@ -4,7 +4,6 @@
 SET NAMES utf8_general_ci;
 
 -- 0_chart_master --
---India Sales Tax charts--
 ('2000', '', 'Sales Tax - CGST 2%', '4', '0'),
 ('2001', '', 'Sales Tax - GGST 2%', '4', '0'),
 ('2002', '', 'Sales Tax - CGST 5%', '4', '0'),
