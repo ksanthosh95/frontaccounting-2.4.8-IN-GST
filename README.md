@@ -44,6 +44,11 @@ Master branch contains all the latest bugfixes made atop the last stable release
 	
 ### 3. Installation
 
+**_ALERT_** 
+*  Delete *root>config.php
+*  Delete *root>config_db.php
+Before Starting Instalation.
+
 Use your browser to open page at URL related to chosen installation folder. As an example, if you plan to use application locally and in previous step you have put files on your Linux box in /var/www/html/frontaccounting subfolder, just select `http://localhost/frontaccounting` url in your browser, and you will see start page of installation wizard. Follow instructions displayed during the process.
 
 During installation you will need to provide data server credentials with permissions to create new database, or you will have to provide existing database name and credentials for user with valid usage permissions to access it. You will have to chose also a couple of other options including installation language, optimal encoding for database data etc. Keep in mind that some options (like additional translations and charts of accounts) presented during installation process could be installed also later, when FrontAccounting is already in use.
@@ -51,8 +56,9 @@ During installation you will need to provide data server credentials with permis
  After successful installation please remove or rename your install directory for safety reasons. You won't need it any more.
 
  *   **_Modified_**
- *   Added Indian GL Account Code, Thanks **_dearmosin_** for [Step by Step Procedure](https://mpulse.in/images/FA_indian_tax_setup.jpg).
+ *   Added Indian GL Account Code, GST Groups, Account Tags - Thanks **_dearmosin_** for [Step by Step Procedure](https://mpulse.in/images/FA_indian_tax_setup.jpg).
  *   Added Currencies - INR - Indian rupees
+
 
 ### 4. Logging In For the First Time
 
