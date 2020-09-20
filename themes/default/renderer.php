@@ -121,7 +121,7 @@
 				echo "<tr>";
 				if (isset($_SESSION['wa_current_user'])) {
 					$phelp = implode('; ', $Pagehelp);
-					echo "<td class='bottomBarCell'>" . Today() . " | " . Now() . "</td>\n";
+					echo "<td class='bottomBarCell'>" . Today() . " | " . Now("h:i a") . "</td>\n";
 					$Ajax->addUpdate(true, 'hotkeyshelp', $phelp);
 					echo "<td id='hotkeyshelp'>".$phelp."</td>";
 				}

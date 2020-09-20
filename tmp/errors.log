@@ -2648,3 +2648,111 @@
 [20-Sep-2020 14:01:46 Asia/Kolkata] 0:admin:session.inc:315: Function get_magic_quotes_gpc() is deprecated
 [20-Sep-2020 14:01:49 Asia/Kolkata] 0:admin:gl_db_trans.inc:464:[before upgrade] Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)`
 [20-Sep-2020 14:01:50 Asia/Kolkata] 0:admin:session.inc:315: Function get_magic_quotes_gpc() is deprecated
+[20-Sep-2020 14:07:44 Asia/Kolkata] 0:admin:gl_db_trans.inc:464:[before upgrade] Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)`
+[20-Sep-2020 14:07:44 Asia/Kolkata] 0:admin:session.inc:315: Function get_magic_quotes_gpc() is deprecated
+[20-Sep-2020 14:07:45 Asia/Kolkata] 0:admin:gl_db_trans.inc:464:[before upgrade] Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)`
+[20-Sep-2020 14:07:45 Asia/Kolkata] 0:admin:session.inc:315: Function get_magic_quotes_gpc() is deprecated
+[20-Sep-2020 14:07:48 Asia/Kolkata] 0:admin:gl_db_trans.inc:464:[before upgrade] Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)`
+[20-Sep-2020 14:07:48 Asia/Kolkata] 0:admin:session.inc:315: Function get_magic_quotes_gpc() is deprecated
+[20-Sep-2020 14:07:49 Asia/Kolkata] 0:admin:gl_db_trans.inc:464:[before upgrade] Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)`
+[20-Sep-2020 14:07:49 Asia/Kolkata] 0:admin:session.inc:315: Function get_magic_quotes_gpc() is deprecated
+[20-Sep-2020 14:07:49 Asia/Kolkata] 0:admin:tcpdf.php:4517: Array and string offset access syntax with curly braces is deprecated
+[20-Sep-2020 14:07:49 Asia/Kolkata] 0:admin:tcpdf.php:4522: Array and string offset access syntax with curly braces is deprecated
+[20-Sep-2020 14:07:49 Asia/Kolkata] 0:admin:tcpdf.php:5398: Array and string offset access syntax with curly braces is deprecated
+[20-Sep-2020 14:07:49 Asia/Kolkata] 0:admin:tcpdf.php:5408: Array and string offset access syntax with curly braces is deprecated
+[20-Sep-2020 14:07:50 Asia/Kolkata] 0:admin:tcpdf.php:5777: Array and string offset access syntax with curly braces is deprecated
+[20-Sep-2020 14:07:50 Asia/Kolkata] 0:admin:tcpdf.php:5797: Array and string offset access syntax with curly braces is deprecated
+[20-Sep-2020 14:07:50 Asia/Kolkata] 0:admin:tcpdf.php:8645: Array and string offset access syntax with curly braces is deprecated
+[20-Sep-2020 14:07:50 Asia/Kolkata] 0:admin:tcpdf.php:8696: Array and string offset access syntax with curly braces is deprecated
+[20-Sep-2020 14:07:50 Asia/Kolkata] 0:admin:tcpdf.php:9194: Array and string offset access syntax with curly braces is deprecated
+[20-Sep-2020 14:07:50 Asia/Kolkata] 0:admin:tcpdf.php:9303: Array and string offset access syntax with curly braces is deprecated
+[20-Sep-2020 14:07:50 Asia/Kolkata] 0:admin:tcpdf.php:9306: Array and string offset access syntax with curly braces is deprecated
+[20-Sep-2020 14:07:50 Asia/Kolkata] 0:admin:tcpdf.php:9322: Array and string offset access syntax with curly braces is deprecated
+[20-Sep-2020 14:07:50 Asia/Kolkata] 0:admin:tcpdf.php:9324: Array and string offset access syntax with curly braces is deprecated
+[20-Sep-2020 14:07:50 Asia/Kolkata] 0:admin:tcpdf.php:9339: Array and string offset access syntax with curly braces is deprecated
+[20-Sep-2020 14:07:50 Asia/Kolkata] 0:admin:tcpdf.php:9358: Array and string offset access syntax with curly braces is deprecated
+[20-Sep-2020 14:07:50 Asia/Kolkata] 0:admin:tcpdf.php:9360: Array and string offset access syntax with curly braces is deprecated
+[20-Sep-2020 14:07:50 Asia/Kolkata] 0:admin:tcpdf.php:9387: Array and string offset access syntax with curly braces is deprecated
+[20-Sep-2020 14:07:50 Asia/Kolkata] 0:admin:tcpdf.php:9387: Array and string offset access syntax with curly braces is deprecated
+[20-Sep-2020 14:07:50 Asia/Kolkata] 0:admin:tcpdf.php:9387: Array and string offset access syntax with curly braces is deprecated
+[20-Sep-2020 14:07:50 Asia/Kolkata] 0:admin:tcpdf.php:9388: Array and string offset access syntax with curly braces is deprecated
+[20-Sep-2020 14:07:50 Asia/Kolkata] 0:admin:tcpdf.php:9430: Array and string offset access syntax with curly braces is deprecated
+[20-Sep-2020 14:07:50 Asia/Kolkata] 0:admin:barcodes.php:246: Array and string offset access syntax with curly braces is deprecated
+[20-Sep-2020 14:07:50 Asia/Kolkata] 0:admin:barcodes.php:257: Array and string offset access syntax with curly braces is deprecated
+[20-Sep-2020 14:07:50 Asia/Kolkata] 0:admin:barcodes.php:311: Array and string offset access syntax with curly braces is deprecated
+[20-Sep-2020 14:07:50 Asia/Kolkata] 0:admin:barcodes.php:314: Array and string offset access syntax with curly braces is deprecated
+[20-Sep-2020 14:07:50 Asia/Kolkata] 0:admin:barcodes.php:333: Array and string offset access syntax with curly braces is deprecated
+[20-Sep-2020 14:07:50 Asia/Kolkata] 0:admin:barcodes.php:372: Array and string offset access syntax with curly braces is deprecated
+[20-Sep-2020 14:07:50 Asia/Kolkata] 0:admin:barcodes.php:373: Array and string offset access syntax with curly braces is deprecated
+[20-Sep-2020 14:07:50 Asia/Kolkata] 0:admin:barcodes.php:381: Array and string offset access syntax with curly braces is deprecated
+[20-Sep-2020 14:07:50 Asia/Kolkata] 0:admin:barcodes.php:381: Array and string offset access syntax with curly braces is deprecated
+[20-Sep-2020 14:07:50 Asia/Kolkata] 0:admin:barcodes.php:389: Array and string offset access syntax with curly braces is deprecated
+[20-Sep-2020 14:07:50 Asia/Kolkata] 0:admin:barcodes.php:544: Array and string offset access syntax with curly braces is deprecated
+[20-Sep-2020 14:07:50 Asia/Kolkata] 0:admin:barcodes.php:544: Array and string offset access syntax with curly braces is deprecated
+[20-Sep-2020 14:07:50 Asia/Kolkata] 0:admin:barcodes.php:556: Array and string offset access syntax with curly braces is deprecated
+[20-Sep-2020 14:07:50 Asia/Kolkata] 0:admin:barcodes.php:566: Array and string offset access syntax with curly braces is deprecated
+[20-Sep-2020 14:07:50 Asia/Kolkata] 0:admin:barcodes.php:568: Array and string offset access syntax with curly braces is deprecated
+[20-Sep-2020 14:07:50 Asia/Kolkata] 0:admin:barcodes.php:581: Array and string offset access syntax with curly braces is deprecated
+[20-Sep-2020 14:07:50 Asia/Kolkata] 0:admin:barcodes.php:613: Array and string offset access syntax with curly braces is deprecated
+[20-Sep-2020 14:07:50 Asia/Kolkata] 0:admin:barcodes.php:620: Array and string offset access syntax with curly braces is deprecated
+[20-Sep-2020 14:07:50 Asia/Kolkata] 0:admin:barcodes.php:632: Array and string offset access syntax with curly braces is deprecated
+[20-Sep-2020 14:07:50 Asia/Kolkata] 0:admin:barcodes.php:743: Array and string offset access syntax with curly braces is deprecated
+[20-Sep-2020 14:07:50 Asia/Kolkata] 0:admin:barcodes.php:751: Array and string offset access syntax with curly braces is deprecated
+[20-Sep-2020 14:07:50 Asia/Kolkata] 0:admin:barcodes.php:756: Array and string offset access syntax with curly braces is deprecated
+[20-Sep-2020 14:07:50 Asia/Kolkata] 0:admin:barcodes.php:761: Array and string offset access syntax with curly braces is deprecated
+[20-Sep-2020 14:07:50 Asia/Kolkata] 0:admin:barcodes.php:769: Array and string offset access syntax with curly braces is deprecated
+[20-Sep-2020 14:07:50 Asia/Kolkata] 0:admin:barcodes.php:769: Array and string offset access syntax with curly braces is deprecated
+[20-Sep-2020 14:07:50 Asia/Kolkata] 0:admin:barcodes.php:770: Array and string offset access syntax with curly braces is deprecated
+[20-Sep-2020 14:07:50 Asia/Kolkata] 0:admin:barcodes.php:812: Array and string offset access syntax with curly braces is deprecated
+[20-Sep-2020 14:07:50 Asia/Kolkata] 0:admin:barcodes.php:825: Array and string offset access syntax with curly braces is deprecated
+[20-Sep-2020 14:07:50 Asia/Kolkata] 0:admin:barcodes.php:875: Array and string offset access syntax with curly braces is deprecated
+[20-Sep-2020 14:07:50 Asia/Kolkata] 0:admin:barcodes.php:878: Array and string offset access syntax with curly braces is deprecated
+[20-Sep-2020 14:07:50 Asia/Kolkata] 0:admin:barcodes.php:885: Array and string offset access syntax with curly braces is deprecated
+[20-Sep-2020 14:07:50 Asia/Kolkata] 0:admin:tcpdf.php:3525: chr() expects parameter 1 to be int, string given
+[20-Sep-2020 14:08:25 Asia/Kolkata] 0:admin:gl_db_trans.inc:464:[before upgrade] Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)`
+[20-Sep-2020 14:08:26 Asia/Kolkata] 0:admin:session.inc:315: Function get_magic_quotes_gpc() is deprecated
+[20-Sep-2020 14:08:27 Asia/Kolkata] 0:admin:gl_db_trans.inc:464:[before upgrade] Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)`
+[20-Sep-2020 14:08:27 Asia/Kolkata] 0:admin:session.inc:315: Function get_magic_quotes_gpc() is deprecated
+[20-Sep-2020 14:08:30 Asia/Kolkata] 0:admin:gl_db_trans.inc:464:[before upgrade] Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)`
+[20-Sep-2020 14:08:31 Asia/Kolkata] 0:admin:session.inc:315: Function get_magic_quotes_gpc() is deprecated
+[20-Sep-2020 14:11:43 Asia/Kolkata] 0:admin:gl_db_trans.inc:464:[before upgrade] Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)`
+[20-Sep-2020 14:11:43 Asia/Kolkata] 0:admin:session.inc:315: Function get_magic_quotes_gpc() is deprecated
+[20-Sep-2020 14:11:46 Asia/Kolkata] 0:admin:gl_db_trans.inc:464:[before upgrade] Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)`
+[20-Sep-2020 14:11:46 Asia/Kolkata] 0:admin:session.inc:315:[before upgrade] Function get_magic_quotes_gpc() is deprecated
+[20-Sep-2020 14:11:48 Asia/Kolkata] 0::gl_db_trans.inc:464:[before upgrade] Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)`
+[20-Sep-2020 14:11:53 Asia/Kolkata] 0::gl_db_trans.inc:464:[before upgrade] Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)`
+[20-Sep-2020 14:11:53 Asia/Kolkata] 0:admin:gl_db_trans.inc:464:[before upgrade] Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)`
+[20-Sep-2020 14:11:53 Asia/Kolkata] 0:admin:session.inc:315: Function get_magic_quotes_gpc() is deprecated
+[20-Sep-2020 14:12:01 Asia/Kolkata] 0:admin:gl_db_trans.inc:464:[before upgrade] Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)`
+[20-Sep-2020 14:12:02 Asia/Kolkata] 0:admin:session.inc:315:[before upgrade] Function get_magic_quotes_gpc() is deprecated
+[20-Sep-2020 14:12:03 Asia/Kolkata] 0::gl_db_trans.inc:464:[before upgrade] Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)`
+[20-Sep-2020 14:13:05 Asia/Kolkata] 0::gl_db_trans.inc:464:[before upgrade] Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)`
+[20-Sep-2020 14:13:05 Asia/Kolkata] 0:admin:gl_db_trans.inc:464:[before upgrade] Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)`
+[20-Sep-2020 14:13:06 Asia/Kolkata] 0:admin:session.inc:315: Function get_magic_quotes_gpc() is deprecated
+[20-Sep-2020 14:14:02 Asia/Kolkata] 0:admin:gl_db_trans.inc:464:[before upgrade] Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)`
+[20-Sep-2020 14:14:03 Asia/Kolkata] 0:admin:session.inc:315: Function get_magic_quotes_gpc() is deprecated
+[20-Sep-2020 14:14:19 Asia/Kolkata] 0:admin:gl_db_trans.inc:464:[before upgrade] Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)`
+[20-Sep-2020 14:14:19 Asia/Kolkata] 0:admin:session.inc:315: Function get_magic_quotes_gpc() is deprecated
+[20-Sep-2020 14:14:22 Asia/Kolkata] 0:admin:gl_db_trans.inc:464:[before upgrade] Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)`
+[20-Sep-2020 14:14:23 Asia/Kolkata] 0:admin:session.inc:315: Function get_magic_quotes_gpc() is deprecated
+[20-Sep-2020 14:14:24 Asia/Kolkata] 0:admin:gl_db_trans.inc:464:[before upgrade] Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)`
+[20-Sep-2020 14:14:24 Asia/Kolkata] 0:admin:session.inc:315: Function get_magic_quotes_gpc() is deprecated
+[20-Sep-2020 14:14:26 Asia/Kolkata] 0:admin:gl_db_trans.inc:464:[before upgrade] Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)`
+[20-Sep-2020 14:14:26 Asia/Kolkata] 0:admin:session.inc:315: Function get_magic_quotes_gpc() is deprecated
+[20-Sep-2020 14:14:27 Asia/Kolkata] 0:admin:gl_db_trans.inc:464:[before upgrade] Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)`
+[20-Sep-2020 14:14:27 Asia/Kolkata] 0:admin:session.inc:315: Function get_magic_quotes_gpc() is deprecated
+[20-Sep-2020 14:14:28 Asia/Kolkata] 0:admin:gl_db_trans.inc:464:[before upgrade] Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)`
+[20-Sep-2020 14:14:28 Asia/Kolkata] 0:admin:session.inc:315: Function get_magic_quotes_gpc() is deprecated
+[20-Sep-2020 14:42:48 Asia/Kolkata] 0:admin:gl_db_trans.inc:464:[before upgrade] Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)`
+[20-Sep-2020 14:42:52 Asia/Kolkata] 0:admin:gl_db_trans.inc:464:[before upgrade] Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)`
+[20-Sep-2020 14:42:52 Asia/Kolkata] 0:admin:gl_db_trans.inc:464:[before upgrade] Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)`
+[20-Sep-2020 14:42:53 Asia/Kolkata] 0:admin:session.inc:315: Function get_magic_quotes_gpc() is deprecated
+[20-Sep-2020 14:59:48 Asia/Kolkata] 0::gl_db_trans.inc:464:[before upgrade] Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)`
+[20-Sep-2020 15:00:13 Asia/Kolkata] 0::gl_db_trans.inc:464:[before upgrade] Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)`
+[20-Sep-2020 15:00:14 Asia/Kolkata] 0:admin:session.inc:315: Function get_magic_quotes_gpc() is deprecated
+[20-Sep-2020 15:00:22 Asia/Kolkata] 0:admin:gl_db_trans.inc:464:[before upgrade] Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)`
+[20-Sep-2020 15:00:22 Asia/Kolkata] 0:admin:session.inc:315: Function get_magic_quotes_gpc() is deprecated
+[20-Sep-2020 15:00:23 Asia/Kolkata] 0:admin:gl_db_trans.inc:464:[before upgrade] Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)`
+[20-Sep-2020 15:00:23 Asia/Kolkata] 0:admin:session.inc:315: Function get_magic_quotes_gpc() is deprecated
+[20-Sep-2020 15:00:27 Asia/Kolkata] 0:admin:gl_db_trans.inc:464:[before upgrade] Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)`
+[20-Sep-2020 15:00:27 Asia/Kolkata] 0:admin:session.inc:315: Function get_magic_quotes_gpc() is deprecated

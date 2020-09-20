@@ -1,36 +1,36 @@
 --To Change New COA chanage in Installation Wizard--
 *Add Code to path_to_root/includes/ui/ui_lists.inc
 
+--To change report print formates--
+path_to_root/reporting/includes/* header2.inc *doctext.inc *pdf_report.inc
+
 SET NAMES utf8_general_ci;
 
 -- 0_chart_master --
 ('2000', '', 'Sales Tax - CGST 2%', '4', '0'),
-('2001', '', 'Sales Tax - GGST 2%', '4', '0'),
-('2002', '', 'Sales Tax - CGST 5%', '4', '0'),
+('2001', '', 'Sales Tax - SGST 2%', '4', '0'),
+('2002', '', 'Sales Tax - IGST 5%', '4', '0'),
 ('2003', '', 'Sales Tax - CGST 6%', '4', '0'),
-('2004', '', 'Sales Tax - CGST 6%', '4', '0'),
-('2005', '', 'Sales Tax - CGST 12%', '4', '0'),
+('2004', '', 'Sales Tax - SGST 6%', '4', '0'),
+('2005', '', 'Sales Tax - IGST 12%', '4', '0'),
 ('2006', '', 'Sales Tax - CGST 9%', '4', '0'),
-('2007', '', 'Sales Tax - CGST 9%', '4', '0'),
-('2008', '', 'Sales Tax - CGST 18%', '4', '0'),
+('2007', '', 'Sales Tax - SGST 9%', '4', '0'),
+('2008', '', 'Sales Tax - IGST 18%', '4', '0'),
 ('2009', '', 'Sales Tax - CGST 14%', '4', '0'),
-('2010', '', 'Sales Tax - CGST 14%', '4', '0'),
-('2011', '', 'Sales Tax - CGST 28%', '4', '0'),
---End of India Sales Tax--
---India Purchase Tax charts--
+('2010', '', 'Sales Tax - SGST 14%', '4', '0'),
+('2011', '', 'Sales Tax - IGST 28%', '4', '0'),
 ('2050', '', 'Purchase Tax - CGST 2%', '4', '0'),
-('2051', '', 'Purchase Tax - GGST 2%', '4', '0'),
-('2052', '', 'Purchase Tax - CGST 5%', '4', '0'),
+('2051', '', 'Purchase Tax - SGST 2%', '4', '0'),
+('2052', '', 'Purchase Tax - IGST 5%', '4', '0'),
 ('2053', '', 'Purchase Tax - CGST 6%', '4', '0'),
-('2054', '', 'Purchase Tax - CGST 6%', '4', '0'),
-('2055', '', 'Purchase Tax - CGST 12%', '4', '0'),
+('2054', '', 'Purchase Tax - SGST 6%', '4', '0'),
+('2055', '', 'Purchase Tax - IGST 12%', '4', '0'),
 ('2056', '', 'Purchase Tax - CGST 9%', '4', '0'),
-('2057', '', 'Purchase Tax - CGST 9%', '4', '0'),
-('2058', '', 'Purchase Tax - CGST 18%', '4', '0'),
+('2057', '', 'Purchase Tax - SGST 9%', '4', '0'),
+('2058', '', 'Purchase Tax - IGST 18%', '4', '0'),
 ('2059', '', 'Purchase Tax - CGST 14%', '4', '0'),
-('2060', '', 'Purchase Tax - CGST 14%', '4', '0'),
-('2061', '', 'Purchase Tax - CGST 28%', '4', '0'),
---End of India Purchase Tax--
+('2060', '', 'Purchase Tax - SGST 14%', '4', '0'),
+('2061', '', 'Purchase Tax - IGST 28%', '4', '0'),
 
 -- 0_currencies --
 ('Indian Rupees', 'INR', 'Rs', 'India', 'Paisa', '0', '0'),
@@ -50,3 +50,8 @@ SET NAMES utf8_general_ci;
 ('1', '9', '2006', '2056', 'CGST ', '0');
 ('1', '9', '2007', '2057', 'SGST', '0');
 ('1', '18', '2008', '2058', 'IGST', '0');
+
+
+-- 0_tags --
+('1', '1', 'Goods &amp; Service Tax', 'Goods &amp; Service Tax', '0');
+
